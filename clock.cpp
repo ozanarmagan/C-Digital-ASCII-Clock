@@ -7,8 +7,6 @@
 #include "draw.h"
 #include "draw.cpp"
 using namespace std;
-#define H 7
-#define W 8 //one extra room in the char array is required for storing '\0'
 
 
 void ClearScreen()
